@@ -4,7 +4,7 @@
 
 Example how to make, update and end Live Activity. With Dynamic Island and Lock Screen.<br>
 **Full tutorial available at [sparrowcode.io](https://sparrowcode.io/tutorials/live-activities)**.
-
+dsfsdfsdf
 Live Activity already enabled for upload with Xcode 14.1 RC.
 
 > **Note**
